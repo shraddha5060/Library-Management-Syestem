@@ -20,7 +20,9 @@ View overdue books
 
 ## 👩‍💻 For Members:
 Search books by title/author
+
 Borrow books
+
 View active and returned loans
 
 ## 🛠️ Tech Stack
@@ -32,14 +34,23 @@ CSV file storage
 ## 📂 Project Structure
 library-management-system/
 │── main.py          # Entry point
+
 │── models.py        # Book, Member, Loan classes
+
 │── storage.py       # CSV file handling
+
 │── auth.py          # Password hashing & verification
+
 │── utils.py         # Date utilities
+
 │── data/            # CSV files stored here
+
 │   ├── books.csv
+
 │   ├── members.csv
+
 │   ├── loans.csv
+
 │── README.md        # Project documentation
 
 ## Future Improvements
