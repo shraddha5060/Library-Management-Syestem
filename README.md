@@ -1,15 +1,21 @@
 # Library-Management-Syestem
 This is a Command Line Interface (CLI) Library Management System built in Python.
+
 It allows librarians and members to manage books, register users, borrow, return, and check overdue loans.
+
 Data is stored in CSV files for persistence.
 .
 
 ## 🚀 Features
 👩‍🏫 For Librarians:
 Add new books
+
 Remove books
+
 Register members
+
 Issue and return books
+
 View overdue books
 
 ## 👩‍💻 For Members:
